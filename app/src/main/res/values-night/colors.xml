@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="FF323232">#FF323232</color>
+    <color name="FFFFFFFF">#FFFFFFFF</color>
+    <color name="colorTitle">@color/FFFFFFFF</color>
+    <color name="colorBg">@color/FF323232</color>
+</resources>
